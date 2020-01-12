@@ -1,0 +1,47 @@
+body{
+    border: olive;
+}
+.navId{
+    background-color: khaki;
+}
+.nav #navId {
+    background-color:transparent;
+    text-transform: uppercase;
+    text-shadow:#ebebeb ;
+
+}
+.nav-link{
+    text-align: justify;
+    font-weight: bolder;
+    
+}
+nav-item .dropdown{
+    font-weight: 0;
+}
+#halo {
+    padding-top: 0rem;
+    text-align: center;
+    font-style: italic;
+  
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:#444443 ;
+    color: rgb(255, 234, 42);
+
+}
+#haloo{
+    background-color: #70706c;
+    padding-bottom: 0rem;
+    color: whitesmoke;
+    font-size: 16px;
+    font-weight: 0;
+    font-family: sans-serif;
+}
+.logo{
+    color:white;
+}
+:hover.logo{
+    color:rgb(88, 75, 75);
+    
+
+}
